@@ -1,0 +1,1 @@
+A simple React Application that generates a Todo List, and uses a MockApi.
